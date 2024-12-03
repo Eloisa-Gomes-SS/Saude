@@ -1,0 +1,20 @@
+
+body{
+    margin: 200px;
+    justify-items: center;
+}
+img{
+    height: 250px;
+    border-radius: 50%;
+}
+.card{
+    border-radius: 5%;
+    background-color: rgb(135, 255, 185); 
+    width: 600px;
+    height:350px;
+    justify-items: center;
+}
+img, h1, p{
+    margin: 7.5px;
+    align-items: center;
+}
